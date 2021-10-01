@@ -1,3 +1,6 @@
+
+https://wizardly-kilby-16fd08.netlify.app/
+
 # vue2
 
 ## Project setup
