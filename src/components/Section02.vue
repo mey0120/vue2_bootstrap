@@ -34,8 +34,6 @@
             <div class="card-header p-0 text-center"><img src="../assets/con3_bg2.jpg" class="img-responsive">
             </div>
             <div class="card-body">
-              <!---->
-              <!---->
               <h3 class="card-title text-capitalize font-weight-bold  ">
                 Service Two
               </h3>
@@ -53,13 +51,9 @@
         </div>
         <div class="service-wrap col-md-6 mb-4 col-lg-3 col-sm-12">
           <div class="card o-hidden">
-            <!---->
-            <!---->
             <div class="card-header p-0 text-center "><img src="../assets/con3_bg3.jpg" class="img-responsive">
             </div>
             <div class="card-body">
-              <!---->
-              <!---->
               <h3 class="card-title text-capitalize font-weight-bold  ">
                 Service Three
               </h3>
@@ -77,13 +71,9 @@
         </div>
         <div class="service-wrap col-md-6 mb-4 col-lg-3 col-sm-12">
           <div class="card o-hidden">
-            <!---->
-            <!---->
             <div class="card-header p-0 text-center "><img src="../assets/con3_bg4.jpg" class="img-responsive">
             </div>
             <div class="card-body">
-              <!---->
-              <!---->
               <h3 class="card-title text-capitalize font-weight-bold  ">
                 Service Four
               </h3>
