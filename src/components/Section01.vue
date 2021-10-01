@@ -1,5 +1,5 @@
 <template>
-  <section id="section01-wrap" class="pb-5">
+  <section id="section01-wrap" class="pt-5 pb-5">
     <div class="container">
       <div class="row">
         <div class="section-header mb-5 col-md-12">

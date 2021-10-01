@@ -42,8 +42,8 @@ export default {
 
 <style scoped>
 #intro-wrap {
-    background: url(../assets/main_bg.png) 50%/cover no-repeat;
-    padding: 180px 0 180px 0;
+    background: url(../assets/teamwork.jpg)center/cover no-repeat;
+    padding: 250px 0 250px 0;
     color: #fff;
     overflow: hidden;
     position: relative;
